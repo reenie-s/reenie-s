@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Serena,<br>A Computer science undergraduate studying Computer science and Artifical Intelligance at Aberystwyth University.<br>I'm currently working on a game using Roblox studio as a game engine and attempting <br>to learn python using a Raspberry pi.<br>I'm interested in game development and AI more specifically, <br>machine learning and Neural networks  .<br>
+Hi I'm Serena,<br>A Computer science undergraduate studying Computer science and Artifical Intelligance at Aberystwyth University.<br>I'm currently working on a game using Roblox studio as a game engine and attempting to learn python using a Raspberry pi.<br>I'm interested in game development and AI more specifically, machine learning and Neural networks.<br>
 
 
 # 💻 Tech Stack:
