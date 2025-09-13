@@ -1,11 +1,61 @@
-# 💫 About Me:
-Hi I'm Serena,<br>A Computer science undergraduate studying Computer science and Artifical Intelligance at Aberystwyth University.<br>I'm currently working on a game using Roblox studio as a game engine and attempting to learn python using a Raspberry pi.<br>I'm interested in game development and AI more specifically, machine learning and Neural networks.<br>
+# 👋 Hi there, I'm Serena!
 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+🎓 I'm a 2nd-year Computer Science student @ Aberystwyth University
+💻 Passionate about coding, building, and experimenting  
+🍰 Baking enthusiast by day, coder by night  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=reenie-s&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💡 About Me
+
+- 🔭 Currently exploring **Lua** and **Python**
+- 💻 Most of my projects are in **Java**
+- 🛠️ Experienced with:
+  - **Spring Boot** – building web apps & APIs
+  - **Arduino** – tinkering with hardware and sensors
+- 🧁 I love to bake in my free time – from cake to code, I like creating things from scratch!
+
+---
+
+### 📂 Featured Projects
+
+**dAIsy MEA (In Progress)
+- 🍰 AI Tool for Animal Crossing Turnip Trading
+Developing a predictive AI assistant using stock market-inspired algorithms to optimize in-game turnip prices based on historical trends and live data.
+
+**BakeForge (In Progress)
+- 🍰 Inventory Management App for Bakers & 3D Artists
+Building a Spring Boot web app to streamline ingredient, material, and digital asset tracking for bakers and digital creators.
+
+**The Legend of Pipi (In Progress)
+- 🍰 2D Java Game
+Designing a retro-style Java game with simple mechanics and humor, inspired by viral internet culture.
+
+*(More projects in progress...)*
+
+### 📂 FuterProjects
+ Roblox Game Project – Designing immersive gameplay and scripting logic using Lua
+
+🧠 AI Learning Journey – Studying machine learning fundamentals and experimenting with neural nets
+
+---
+
+### 🌱 Currently Learning
+
+- Advanced Python (data manipulation, scripting)
+- Lua for scripting and game development
+- Backend best practices and RESTful APIs
+Interests: Game Dev, AI, Neural Networks, Interactive Design
+
+---
+
+### 📫 Connect with Me
+
+- 🐙 GitHub: reenie-s (https://github.com/reenie-s)
+- 💼 LinkedIn: (https://www.linkedin.com/in/serena-saka-846275344/)
+- 🍪 Fun fact: "Code and cake have a lot in common — get the ingredients right, follow the logic, and be ready to debug if it collapses!"
+
+---
+
+Thanks for stopping by! ❤️  
+Let's build and bake cool stuff together.
