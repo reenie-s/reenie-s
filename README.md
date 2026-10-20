@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Serena!
 
-🎓 I'm a 2nd-year Computer Science student @ Aberystwyth University
+🎓 I'm a 3rd-year Computer Science student @ Aberystwyth University
 💻 Passionate about coding, building, and experimenting  
 🍰 Baking enthusiast by day, coder by night  
 
@@ -34,8 +34,6 @@ Designing a retro-style Java game with simple mechanics and humor, inspired by v
 *(More projects in progress...)*
 
 ### 📂 FuterProjects
- Roblox Game Project – Designing immersive gameplay and scripting logic using Lua
-
 🧠 AI Learning Journey – Studying machine learning fundamentals and experimenting with neural nets
 
 ---
